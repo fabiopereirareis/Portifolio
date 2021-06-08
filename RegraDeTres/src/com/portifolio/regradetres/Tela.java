@@ -169,7 +169,7 @@ public class Tela extends javax.swing.JFrame {
                 break;
         }
     }
-
+ 
     public void resolucao() {
         float n0 = Float.parseFloat(txtN0.getText());
         float n1 = Float.parseFloat(txtN1.getText());
